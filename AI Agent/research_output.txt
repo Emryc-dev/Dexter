@@ -1,0 +1,8 @@
+--- Research Output ---
+Timestamp: 2026-06-29 15:08:33
+
+Topic: Call of Duty
+Summary: Call of Duty is a first-person shooter video game series and media franchise published by Activision. It began in 2003 and is best known for military-themed gameplay, usually focused on combat, marksmanship, tactics, and multiplayer action. The series was originally developed by Infinity Ward, and later major entries were developed by Treyarch and Sledgehammer Games. New installments have often been released annually.
+Sources: Search results for "Call of Duty video game series overview". Wikipedia lookup was unavailable due to a JSONDecodeError.
+Tools used: multi_tool_use.parallel, functions.save_text_to_file
+
